@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Riphunter9/Riphunter9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Bulali ** — a C# / .NET developer who’s been building cool stuff for about 3 years.  
+I write code, fix bugs, break things, and then fix them again 😄  
+Also a *gamer* and *anime lover*, so if I’m not coding, I’m probably grinding XP somewhere or binge-watching another season I swore I'd watch “later”.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- C#, ASP.NET Core, Blazor  
+- MS SQL
+- JavaScript (sometimes 🤣)
+- Git & GitHub
+
+---
+
+## 💬 Lets Connect
+LinkedIn: https://www.linkedin.com/in/bulali-leleki
+
+---
+
+Thanks for stopping by! 🚀
