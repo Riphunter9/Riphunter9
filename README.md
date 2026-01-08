@@ -5,7 +5,6 @@ I write code, fix bugs, break things, and then fix them again 😄
 Also a *gamer* and *anime lover*, so if I’m not coding, I’m probably grinding XP somewhere or binge-watching another season I swore I'd watch “later”.
 
 # 💫 About Me:
-🔭 I’m currently working on reworking my 3rd year project in blazor and doing some coding challenges on <br>
 👯 I’m looking to collaborate on .net projects or backend projects which can help expand my knowledge.<br>
 🌱 I’m currently learning some laravel and postgres, while taking myself back to basics on c# topics.<br>
 💬 Ask me about c#, .Net ,SQL<br>
